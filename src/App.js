@@ -11,7 +11,6 @@ function App() {
         <Switch>
           <Route path='/search'>
             <SearchPage />
-            <h1>GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOle</h1>
           </Route>
           <Route path='/'>
             <Home />
